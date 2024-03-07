@@ -36,7 +36,7 @@ header a:hover {
 
 .image-div img {
     margin:auto;
-    width: 30%;   
+    width: max(30%, 250px);   
 }
 
 .content {
